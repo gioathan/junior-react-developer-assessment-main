@@ -1,0 +1,167 @@
+.font-integral {
+  font-family: 'Integral CF', sans-serif;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 34px;
+  letter-spacing: 0px; 
+}
+
+.font-navbar {
+  font-family: 'Integral CF',
+  sans-serif;
+  font-weight: 800;
+  font-size: 26px;
+  line-height: 30px;
+}
+
+.nav-satoshi {
+  font-family: 'Satoshi', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.font-satoshi {
+  font-family: 'Satoshi', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0px; 
+  color: #00000099;
+}
+
+.items-title {
+  font-family: 'Integral CF', sans-serif;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 38px;
+  letter-spacing: 0px; 
+}
+
+.item-title {
+  font-family: 'Satoshi', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21.6px;
+}
+
+.white-capitals {
+  font-family: 'Integral CF', sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 35px;
+  color: #FFFFFF;
+}
+
+.footer-shop{
+  font-family: 'Integral CF', sans-serif;
+  font-weight: 800;
+  font-size: 27px;
+  line-height: 40.15px;
+}
+
+.footer-title{
+  font-family: 'Satoshi', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.footer-typo{
+  font-family: 'Satoshi', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #00000099;
+}
+
+.category {
+  font-family: 'Satoshi', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.electronics {
+  background-image: url('../images/electronics.png');
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.jewelery {
+  background-image: url('../images/jewelery.png');
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.men {
+  background-image: url('../images/men.png');
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.women {
+  background-image: url('../images/women.png');
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 768px) {
+  .font-integral {
+    font-size: 64px;
+    line-height: 64px;
+  }
+  
+  .font-navbar {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  
+  .font-satoshi {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  
+  .items-title {
+    font-size: 48px;
+    line-height: 57.6px;
+  }
+  
+  .item-title {
+    font-size: 20px;
+    line-height: 27px;
+  }
+  
+  .white-capitals {
+    font-size: 40px;
+    line-height: 45px;
+  }
+  
+  .footer-title{
+    font-size: 16px;
+  }
+  
+  .footer-typo{
+    font-size: 16px;
+    line-height: 19px;
+  }
+  
+  .category {
+    font-size: 36px;
+    line-height: 48.6px;
+  }
+}
+
+.star1 {
+  top: 17rem /* 32px */;
+  left: 3rem;
+}
+
+.star2 {
+  top: 2rem /* 32px */;
+  left: 47rem;
+}
